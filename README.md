@@ -6,7 +6,7 @@ A Computer Science student who possesses strong programming skills and an intere
 
 [![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Handshake][3.1]][3]
 
-[1.1]: https://i.imgur.com/0o48UoR.png (LinkedIn icon without padding)
+[1.1]: https://www.linkedin.com/in/your_contact_info (LinkedIn icon without padding)
 [2.1]: https://i.imgur.com/9I6NRUm.png (GitHub icon without padding)
 [3.1]: https://i.imgur.com/31PwVMs.png (Handshake icon)
 [1]: https://www.linkedin.com/in/aymen-zouari-622377236/
