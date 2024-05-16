@@ -19,9 +19,7 @@ A Computer Science student who possesses strong programming skills and an intere
     <img src="https://avatars.githubusercontent.com/u/2332267?s=200&v=4" width="40" height="40" alt="Handshake">
   </a>
 </p>
-[1]: https://www.linkedin.com/in/aymen-zouari-622377236/
-[2]: https://github.com/Az0202/Aymen-Zouari
-[3]: https://app.joinhandshake.com/stu/users/49753127
+
 
 
 
