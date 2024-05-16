@@ -6,9 +6,19 @@ A Computer Science student who possesses strong programming skills and an intere
 
 [![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Handshake][3.1]][3]
 
-[1.1]: <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-1024.png" width="40" height="40" alt="LinkedIn"></a>
-[2.1]: https://i.imgur.com/9I6NRUm.png (GitHub icon without padding)
-[3.1]: https://i.imgur.com/31PwVMs.png (Handshake icon)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aymen-zouari-622377236/">
+    <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-1024.png" width="40" height="40" alt="LinkedIn">
+  </a>
+  ·
+  <a href="https://github.com/Az0202/Aymen-Zouari">
+    <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-1024.png" width="40" height="40" alt="GitHub">
+  </a>
+  ·
+  <a href="https://app.joinhandshake.com/stu/users/49753127">
+    <img src="https://avatars.githubusercontent.com/u/2332267?s=200&v=4" width="40" height="40" alt="Handshake">
+  </a>
+</p>
 [1]: https://www.linkedin.com/in/aymen-zouari-622377236/
 [2]: https://github.com/Az0202/Aymen-Zouari
 [3]: https://app.joinhandshake.com/stu/users/49753127
