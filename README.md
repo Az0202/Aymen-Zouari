@@ -6,14 +6,14 @@ A Computer Science student who possesses strong programming skills and an intere
 
 [![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Handshake][3.1]][3]
 
-
+[1.1]: https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png
 [2.1]: https://i.imgur.com/9I6NRUm.png (GitHub icon without padding)
 [3.1]: https://i.imgur.com/31PwVMs.png (Handshake icon)
 [1]: https://www.linkedin.com/in/aymen-zouari-622377236/
 [2]: https://github.com/Az0202/Aymen-Zouari
 [3]: https://app.joinhandshake.com/stu/users/49753127
 
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
+
 
 ## 🧰 Languages and Tools
 
