@@ -8,7 +8,7 @@ A Computer Science student who possesses strong programming skills and an intere
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aymen-zouari-622377236/">
-    <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-1024.png" width="40" height="40" alt="LinkedIn">
+    <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-1024.png" style="margin-right: 10px;" width="40" height="40" alt="LinkedIn">
   </a>
   
   <a href="https://github.com/Az0202/Aymen-Zouari">
