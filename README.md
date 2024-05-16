@@ -12,11 +12,11 @@ A Computer Science student who possesses strong programming skills and an intere
   </a>
   ·
   <a href="https://github.com/Az0202/Aymen-Zouari">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-outline-3/60/Social-26-Github-Outline-1024.png" width="40" height="40" alt="GitHub">
+    <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-1024.png" width="40" height="40" alt="GitHub">
   </a>
   ·
   <a href="https://app.joinhandshake.com/stu/users/49753127">
-    <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-1024.png" width="40" height="40" alt="Handshake">
+    <img src="https://avatars.githubusercontent.com/u/2332267?s=200&v=4" width="40" height="40" alt="Handshake">
   </a>
 </p>
 
