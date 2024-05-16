@@ -4,7 +4,7 @@ A Computer Science student who possesses strong programming skills and an intere
 
 ## Connect with me
 
-[![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Handshake][3.1]][3]
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aymen-zouari-622377236/">
