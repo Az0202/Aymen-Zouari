@@ -10,7 +10,7 @@ A Computer Science student who possesses strong programming skills and an intere
 [2.1]: https://i.imgur.com/9I6NRUm.png (GitHub icon without padding)
 [3.1]: https://i.imgur.com/31PwVMs.png (Handshake icon)
 [1]: https://www.linkedin.com/in/aymen-zouari-622377236/
-[2]: https://github.com/Az0202
+[2]: https://github.com/Az0202/Aymen-Zouari
 [3]: https://app.joinhandshake.com/stu/users/49753127
 
 ## 🧰 Languages and Tools
